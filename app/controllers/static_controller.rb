@@ -1,0 +1,3 @@
+class StatisController < ApplicationController
+  
+end
