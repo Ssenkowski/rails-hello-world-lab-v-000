@@ -1,3 +1,3 @@
 class StatisController < ApplicationController
-  
+
 end
